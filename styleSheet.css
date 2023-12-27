@@ -1,0 +1,9 @@
+#heading {
+  color: rgba(255, 8, 0, 0.97);
+  background-color: rgb(17, 17, 0);
+  text-align: center;
+}
+#inner {
+  color: blue;
+  background-color: blanchedalmond;
+}
